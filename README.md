@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m am Working [Personal Portfolio](https://ameershaik07.github.io/github-Portfolio/)
+- 👯 I’m am Working [Personal Portfolio](https://ameershaik07.github.io/My-Portfolio/)
 
 - 🤝 I Developed [Parcle Tracking System](https://github.com/AmeerShaik07/ParcleTrackingSystem)
 
-- 👨‍💻 All of my projects are available at [https://ameershaik07.github.io/github-Portfolio/](https://ameershaik07.github.io/github-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ameershaik07.github.io/github-Portfolio/](https://ameershaik07.github.io/My-Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Java.**
 
