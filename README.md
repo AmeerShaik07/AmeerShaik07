@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m am Working [Personal Portfolio](https://ameershaik07.github.io/My-Portfolio/)
+- 👯 I’m am Working [Personal Portfolio](https://ameershaik07.github.io/My_Portifolio/)
 
 - 🤝 I Developed [Flashpoint-MemoryGame](https://ameershaik07.github.io/Flashpoint-Memory-Game/)
 
